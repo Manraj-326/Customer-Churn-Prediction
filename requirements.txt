@@ -1,6 +1,6 @@
-Streamlit
-Pandas: 2.2.3
-NumPy: 2.4.6
-JobLib: 1.6.0
-Scikit-learn: 1.6.1
-XGBoost: 3.4.1
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
